@@ -1,0 +1,14 @@
+C:\Users\sord0\Downloads\escuela\alumno y profe\bin\Debug\net8.0\alumno y profe.exe
+C:\Users\sord0\Downloads\escuela\alumno y profe\bin\Debug\net8.0\alumno y profe.deps.json
+C:\Users\sord0\Downloads\escuela\alumno y profe\bin\Debug\net8.0\alumno y profe.runtimeconfig.json
+C:\Users\sord0\Downloads\escuela\alumno y profe\bin\Debug\net8.0\alumno y profe.dll
+C:\Users\sord0\Downloads\escuela\alumno y profe\bin\Debug\net8.0\alumno y profe.pdb
+C:\Users\sord0\Downloads\escuela\alumno y profe\obj\Debug\net8.0\alumno y profe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sord0\Downloads\escuela\alumno y profe\obj\Debug\net8.0\alumno y profe.AssemblyInfoInputs.cache
+C:\Users\sord0\Downloads\escuela\alumno y profe\obj\Debug\net8.0\alumno y profe.AssemblyInfo.cs
+C:\Users\sord0\Downloads\escuela\alumno y profe\obj\Debug\net8.0\alumno y profe.csproj.CoreCompileInputs.cache
+C:\Users\sord0\Downloads\escuela\alumno y profe\obj\Debug\net8.0\alumno y profe.dll
+C:\Users\sord0\Downloads\escuela\alumno y profe\obj\Debug\net8.0\refint\alumno y profe.dll
+C:\Users\sord0\Downloads\escuela\alumno y profe\obj\Debug\net8.0\alumno y profe.pdb
+C:\Users\sord0\Downloads\escuela\alumno y profe\obj\Debug\net8.0\alumno y profe.genruntimeconfig.cache
+C:\Users\sord0\Downloads\escuela\alumno y profe\obj\Debug\net8.0\ref\alumno y profe.dll

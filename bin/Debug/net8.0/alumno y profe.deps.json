@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "alumno y profe/1.0.0": {
+        "runtime": {
+          "alumno y profe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "alumno y profe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
