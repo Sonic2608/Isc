@@ -1,24 +1,17 @@
-﻿using alumno_y_profe;
-Profesor profesor = new Profesor();
-Console.WriteLine("\nDatos del Profe:");
-Console.WriteLine("Ingresa el Nombre del profesor");
-profesor.Nombre_profesor = Console.ReadLine();
-
-profesor.capturar_Datos_Alumno();
-profesor.capturar_Materias();
-profesor.capturar_Calificaciones();
-
-Console.WriteLine($"El nombre del profesor es {profesor.Nombre_profesor}");
-Console.WriteLine($"El Nombre de el alumno es{profesor.Alumno.Nombre_Alumno}");
-
-Console.WriteLine("Materias:");
-foreach (string materia in profesor.Alumno.Materias)
+namespace juegos
 {
-    Console.WriteLine($"- {materia}");
-}
-
-Console.WriteLine("Calificaciones");
-foreach (int calificaciones in profesor.Alumno.Calificaciones)
-{
-    Console.WriteLine($"-{calificaciones}");
+    internal static class Program
+    {
+        /// <summary>
+        ///  The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            // To customize application configuration such as set high DPI settings or default font,
+            // see https://aka.ms/applicationconfiguration.
+            ApplicationConfiguration.Initialize();
+            Application.Run(new Form1());
+        }
+    }
 }

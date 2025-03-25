@@ -1,0 +1,17 @@
+C:\Users\sord0\Downloads\escuela\juegos\obj\Debug\net8.0-windows\juegos.Form1.resources
+C:\Users\sord0\Downloads\escuela\juegos\obj\Debug\net8.0-windows\juegos.Properties.Resources.resources
+C:\Users\sord0\Downloads\escuela\juegos\obj\Debug\net8.0-windows\juegos.csproj.GenerateResource.cache
+C:\Users\sord0\Downloads\escuela\juegos\obj\Debug\net8.0-windows\juegos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sord0\Downloads\escuela\juegos\obj\Debug\net8.0-windows\juegos.AssemblyInfoInputs.cache
+C:\Users\sord0\Downloads\escuela\juegos\obj\Debug\net8.0-windows\juegos.AssemblyInfo.cs
+C:\Users\sord0\Downloads\escuela\juegos\obj\Debug\net8.0-windows\juegos.csproj.CoreCompileInputs.cache
+C:\Users\sord0\Downloads\escuela\juegos\bin\Debug\net8.0-windows\juegos.exe
+C:\Users\sord0\Downloads\escuela\juegos\bin\Debug\net8.0-windows\juegos.deps.json
+C:\Users\sord0\Downloads\escuela\juegos\bin\Debug\net8.0-windows\juegos.runtimeconfig.json
+C:\Users\sord0\Downloads\escuela\juegos\bin\Debug\net8.0-windows\juegos.dll
+C:\Users\sord0\Downloads\escuela\juegos\bin\Debug\net8.0-windows\juegos.pdb
+C:\Users\sord0\Downloads\escuela\juegos\obj\Debug\net8.0-windows\juegos.dll
+C:\Users\sord0\Downloads\escuela\juegos\obj\Debug\net8.0-windows\refint\juegos.dll
+C:\Users\sord0\Downloads\escuela\juegos\obj\Debug\net8.0-windows\juegos.pdb
+C:\Users\sord0\Downloads\escuela\juegos\obj\Debug\net8.0-windows\juegos.genruntimeconfig.cache
+C:\Users\sord0\Downloads\escuela\juegos\obj\Debug\net8.0-windows\ref\juegos.dll
